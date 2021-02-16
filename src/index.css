@@ -76,3 +76,42 @@ h3 {
 .answer {
   color: #778ea9;
 }
+
+@media (max-width: 480px) {
+  header {
+    font-size: 16px;
+  }
+  .container {
+    width: 90%;
+    padding: 15px;
+    margin: 50px auto;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+  }
+  .btn {
+    margin: 3px;
+  }
+
+  .answer {
+    padding-top: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+    padding: 15px;
+    margin: 100px auto;
+  }
+  .answer {
+    padding-top: 10px;
+  }
+  h3 {
+    font-size: 28px;
+  }
+}

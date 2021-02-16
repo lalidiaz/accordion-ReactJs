@@ -1,7 +1,7 @@
 const questions = [
   {
     id: 1,
-    title: 'World Famous in New Zealand: Waitomo Caves:',
+    title: 'Waitomo Caves in New Zealand',
     info:
       "There is nowhere in New Zealand like Waitomo Caves to see and experience the true subterranean beauty of the Earth. The Caves were created over 30 million years ago and offer some of the country's best natural history and beauty."
   },
